@@ -11,7 +11,7 @@ I'm Sijal Manandhar a front-end focused Web Developer 👨‍💻 designing and 
 - 💻 Languages: JavaScript, Python, C
 - 💼 Portfolio: [sam4web](https://sam4web.vercel.app)
 - 📄 [Resume](https://resume.io/r/8tuDJbCVV)
-- ⚡ Fact : It's never late to get started 🎯❤️
+- ⚡ Fact : It's never late to start 🎯❤️
 
 #### Github Stats 📊
 
@@ -26,17 +26,16 @@ I'm Sijal Manandhar a front-end focused Web Developer 👨‍💻 designing and 
 #### Let's Connect 🤝
 
 <div>
-  <a href="mailto:sijal.m06@gamil.com" style='margin-right: 25px;'>
+  <a href="mailto:sijal.m06@gamil.com" style='margin-right: 25px; text-decoration: none;'>
     <img src="https://img.icons8.com/fluency/37/null/gmail.png"/>
   </a>
-  <a href='https://www.linkedin.com/in/sijal-manandhar-9914b6247/' style='margin-right: 25px;'>
+  <a href='https://www.linkedin.com/in/sijal-manandhar-9914b6247/' style='margin-right: 25px; text-decoration: none;'>
     <img src="https://img.icons8.com/fluency/37/null/linkedin.png"/>
   </a>
-  <a href='https://github.com/sam4web' style='margin-right: 25px;'>
+  <a href='https://github.com/sam4web' style='margin-right: 25px; text-decoration: none;'>
     <img src="https://img.icons8.com/fluency/37/null/github.png"/>
   </a>
-  <a href='https://www.facebook.com/profile.php?id=100084842116288' style='margin-right: 25px;'>
+  <a href='https://www.facebook.com/profile.php?id=100084842116288' style='margin-right: 25px; text-decoration: none;'>
     <img src="https://img.icons8.com/fluency/37/null/facebook-new.png"/>
   </a>
 </div>
-# sam4web
