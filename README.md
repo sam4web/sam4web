@@ -9,9 +9,9 @@ I'm Sijal Manandhar a front-end focused Web Developer 👨‍💻 designing and 
 - 😄 Pronouns: he/him
 - 🎲 Hobbies: Drawing 🎨, Cooking 🍳 & Articles📕
 - 💻 Languages: JavaScript, Python, C
-- 💼 Portfolio: [sam4web](https://sam4web.vercel.app)
+- 💼 Portfolio: [www.sijalmanandhar.com.np](https://www.sijalmanandhar.com.np/)
 - 📄 [Resume](https://resume.io/r/8tuDJbCVV)
-- ⚡ Fact : It's never late to start 🎯❤️
+- ⚡ Fact: It's never too late to start 🎯❤️
 
 #### Github Stats 📊
 
