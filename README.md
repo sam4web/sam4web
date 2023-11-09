@@ -35,7 +35,10 @@ I'm Sijal Manandhar a front-end focused Web Developer 👨‍💻 designing and 
   <a href='https://github.com/sam4web' style='margin-right: 25px; text-decoration: none;'>
     <img src="https://img.icons8.com/fluency/37/null/github.png"/>
   </a>
-  <a href='https://www.facebook.com/profile.php?id=100084842116288' style='margin-right: 25px; text-decoration: none;'>
+  <a href='https://www.facebook.com/http.sijal/' style='margin-right: 25px; text-decoration: none;'>
     <img src="https://img.icons8.com/fluency/37/null/facebook-new.png"/>
+  </a>  
+  <a href='https://www.instagram.com/http.sijal/' style='margin-right: 25px; text-decoration: none;'>
+    <img src="https://img.icons8.com/fluency/37/instagram-new.png"/>
   </a>
 </div>
