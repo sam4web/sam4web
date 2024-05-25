@@ -10,5 +10,5 @@ I'm Sijal Manandhar a front-end focused Web Developer 👨‍💻 designing and 
 - 🎲 Hobbies: Drawing 🎨, Cooking 🍳 & Articles📕
 - 💻 Languages: JavaScript, Python, C
 - 💼 Portfolio: [www.sijalmanandhar.com.np](https://www.sijalmanandhar.com.np/)
-- 📄 [Resume](https://resume.io/r/8tuDJbCVV)
+- 📄 [Resume](https://www.sijalmanandhar.com.np/resume.pdf)
 - ⚡ Fact: It's never too late to start 🎯❤️
