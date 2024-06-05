@@ -6,7 +6,6 @@ I'm Sijal Manandhar a front-end focused Web Developer 👨‍💻 designing and 
 
 - 🔭 I’m currently working on Frontend development
 - 🌱 Learning : Full-Stack Development ⚡ | Open-Source 🔥
-- 😄 Pronouns: he/him
 - 🎲 Hobbies: Drawing 🎨, Cooking 🍳 & Articles📕
 - 💻 Languages: JavaScript, Python, C
 - 💼 Portfolio: [www.sijalmanandhar.com.np](https://www.sijalmanandhar.com.np/)
