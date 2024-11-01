@@ -1,4 +1,4 @@
-## 👋 Sijal Manandhar
+## 🌊 Sijal Manandhar
 
 `Full Stack Developer | Frontend Specialist | MERN Stack Enthusiast`
 
