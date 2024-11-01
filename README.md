@@ -2,8 +2,6 @@
 
 `Full Stack Developer | Frontend Specialist | MERN Stack Enthusiast`
 
-Welcome to my GitHub! I'm a passionate developer with a knack for building practical, data-driven solutions that enhance user experience. I focus on creating seamless web applications with a deep understanding of both frontend and backend development.
-
-🌐 [sijalmanandhar.com.np](https://sijalmanandhar.com.np/)
+Welcome to my GitHub profile! I'm, a passionate developer specializing in the MERN stack. I focus on building efficient, data-driven web applications with a strong emphasis on user experience and performance. Explore my work and portfolio at sijalmanandhar.com.np.
 
 ![My Skills](https://skillicons.dev/icons?i=js,react,express,mongo,nodejs,redux,scss,python,django,tailwindcss,vuejs,java&perline=6)
