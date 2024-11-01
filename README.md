@@ -1,13 +1,9 @@
-## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+## 👋 Sijal Manandhar
 
-I'm Sijal Manandhar a front-end focused Web Developer 👨‍💻 designing and developing websites and web applications 🌐.
+`Full Stack Developer | Frontend Specialist | MERN Stack Enthusiast`
 
-#### About me 🧑
+Welcome to my GitHub! I'm a passionate developer with a knack for building practical, data-driven solutions that enhance user experience. I focus on creating seamless web applications with a deep understanding of both frontend and backend development.
 
-- 🔭 I’m currently working on Frontend development
-- 🌱 Learning : Full-Stack Development ⚡ | Open-Source 🔥
-- 🎲 Hobbies: Drawing 🎨, Cooking 🍳 & Articles📕
-- 💻 Languages: JavaScript, Python, C
-- 💼 Portfolio: [www.sijalmanandhar.com.np](https://www.sijalmanandhar.com.np/)
-- 📄 [Resume](https://www.sijalmanandhar.com.np/resume.pdf)
-- ⚡ Fact: It's never too late to start 🎯❤️
+🌐 [sijalmanandhar.com.np](https://sijalmanandhar.com.np/)
+
+![My Skills](https://skillicons.dev/icons?i=js,react,express,mongo,nodejs,redux,scss,python,django,tailwindcss,vuejs,java&perline=6)
